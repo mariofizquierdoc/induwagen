@@ -1,0 +1,36 @@
+.flex {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.flex.v-center {
+	align-items: center;
+}
+.flex.h-center {
+	justify-content: center
+}
+.max-h-50 {
+	max-height: 50px;
+}
+.h-100-per {
+	height: 100%;
+}
+.text-center {
+	text-align: center;
+}
+.img-center {
+	margin: auto;
+}
+.bg-white {
+	background: #FFFFFF;
+}
+.bg-audi {
+	background: #000000;
+}
+.bg-mg {
+	background: #C3282C;
+}
+.bg-induwagen {
+	background: #087789;
+}
