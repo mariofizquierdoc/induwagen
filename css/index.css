@@ -37,3 +37,9 @@
 #img-mg {
 	max-height: 75px;
 }
+@media (max-width: 600px)
+{
+	img {
+		max-height: 40px !important;
+	}
+}
